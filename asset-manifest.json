@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://yashdxr.github.io/Note-App/static/css/main.e6c13ad2.css",
-    "main.js": "https://yashdxr.github.io/Note-App/static/js/main.47afd05f.js",
+    "main.js": "https://yashdxr.github.io/Note-App/static/js/main.fb79efe3.js",
     "index.html": "https://yashdxr.github.io/Note-App/index.html",
     "main.e6c13ad2.css.map": "https://yashdxr.github.io/Note-App/static/css/main.e6c13ad2.css.map",
-    "main.47afd05f.js.map": "https://yashdxr.github.io/Note-App/static/js/main.47afd05f.js.map"
+    "main.fb79efe3.js.map": "https://yashdxr.github.io/Note-App/static/js/main.fb79efe3.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.47afd05f.js"
+    "static/js/main.fb79efe3.js"
   ]
 }
